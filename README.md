@@ -29,4 +29,4 @@ This project presents an interactive Tableau dashboard analyzing zip code-level 
 
 # Dashboard Link
 
-Explore the dashboard here: Interactive Dashboard
+Explore the dashboard here: https://public.tableau.com/app/profile/aayush.amrute/viz/Project2_17338907832630/Dashboard2?publish=yes
